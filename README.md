@@ -32,7 +32,6 @@ Future Improvements
     Add functionality to search for specific GIFs.
     Improve UI design and user experience.
 
-Note: This is a basic example. Consider adding comments within the code for better understanding.
-
 Preview
+
 ![Print_Gifdictionary](https://github.com/user-attachments/assets/24f10651-948d-4a47-9ad3-d8afb30bf26e)
